@@ -71,6 +71,5 @@ This repository contains two key components:
 
 ---
 
-## Project Structure  
 
 
